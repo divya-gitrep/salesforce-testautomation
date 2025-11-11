@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Salesforce Suite">
+    <test name="Smoke Tests">
+        <classes>
+            <class name="com.yourname.tests.SampleLoginTest"/>
+        </classes>
+    </test>
+</suite>
