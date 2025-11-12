@@ -2,7 +2,7 @@
 <suite name="Salesforce Suite">
     <test name="Smoke Tests">
         <classes>
-            <class name="com.yourname.tests.SampleLoginTest"/>
+            <class name="com.volvo.tests.SampleLoginTest"/>
         </classes>
     </test>
 </suite>
